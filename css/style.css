@@ -1,0 +1,74 @@
+/* my name is prabhnoor kaur 
+   my student no. is 8980918 */
+
+   html{
+    height: 100%;
+   }
+body {
+    background-color:hsl(185, 95%, 48%); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    min-height: 100%; 
+    width: 1200px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+  }
+  aside { width: 250px;
+    float: right;
+    background-color: hsl(45, 48%, 40%);
+
+  }
+  h1{
+    font-style: italic;
+  }
+  main{
+    float: left;
+    width: 800px;
+    background-color: hsl(169, 88%, 29%);
+  }
+  
+  header{
+    background-color: hsl(0, 26%, 66%);
+    padding: 20px;
+  }
+
+  
+  h2 {
+    color:#120060;
+    font: 30px;
+    
+    
+  }
+
+  .structural header,main,aside,footer {
+    border: 2px solid black;
+    padding: 8px;
+    margin: 8px;
+    
+    
+  }
+  #p1{
+    color: rgb(65, 13, 4);
+  }
+  #p2{
+    color: rgb(157, 97, 19);
+  }
+  footer{
+    background-color: hsl(248, 53%, 58%);
+    clear: both;
+    text-align: center;    
+    background-color: #f7e7d9; 
+    padding: 10px 0; 
+    font-size: 10px;
+    margin-top: auto;
+    
+
+  }
+  a:hover{
+    color: #951dc5;
+  }
+  
+  
+  
+  
